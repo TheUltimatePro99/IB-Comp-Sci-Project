@@ -3,7 +3,7 @@ using TMPro;
 public class PlayerUI : MonoBehaviour
 {
     [SerializeField]
-    private TextMeshProGUI promptText;
+    private TextMeshProUGUI promptText;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
